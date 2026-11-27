@@ -1,115 +1,36 @@
-<div align="center">
+# Nathan Kransfeld
 
-![Nathan Kransfeld — Software Engineering & Artificial Intelligence](assets/banner.svg)
+I build software for the fun of figuring things out — and because I like seeing an idea turn into something people can actually use.
 
-### Software Developer · AI & Full-Stack Engineering
+My interests are mostly in AI, backend development, and the parts of software engineering where you have to think carefully about how things work. I also enjoy making games and experimenting with web design.
 
-*Building intelligent applications, thoughtful digital experiences, and practical systems that solve real problems.*
+I'm a computer science graduate from the University of Georgia, currently pursuing an MBA in data analytics at Louisiana Tech. Outside of writing code, I work in operations management and run [Kransfeld Studios](https://kransfeldstudios.com), my independent web development business.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Kransfeld_Studios-163658?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kransfeldstudios.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-kransfeld-435843288/)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-334155?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:nate_kransfeld@outlook.com)
+**[Website](https://kransfeldstudios.com) · [LinkedIn](https://www.linkedin.com/in/nathan-kransfeld-435843288/) · [Email](mailto:nate_kransfeld@outlook.com)**
 
-</div>
+## What I'm working on
 
----
+**[SpaceCourier](https://github.com/DarthPlagueis123/SpaceCourier)** — A small arcade game that became a reinforcement learning experiment. I trained a Double DQN agent to dodge asteroids, built a headless training environment, and evaluated it against a random-action baseline. The trained agent averaged **8.37× the score** in a 100-game evaluation. There's still plenty I'd like to improve.
 
-## About me
+**[Kransfeld Studios](https://kransfeldstudios.com)** — My web development studio. I design and build custom websites, including interactive concepts and motion-heavy experiences. The studio's commercial source code stays private.
 
-I'm **Nathan Kransfeld**, a software developer and University of Georgia computer science graduate (B.S., May 2026; **3.79 GPA**). I build across **AI/ML, backend systems, full-stack applications, and interactive software**.
+**Emberfall** — A pixel-art action game built in Godot. It's a larger independent project involving combat systems, enemy behavior, level design, and cross-platform controls. The game source is private; a public showcase is in progress.
 
-My background combines engineering with hands-on operations leadership. I currently serve as an **Operations Manager at AMS Pools**, and I'm pursuing an **online MBA in Data Analytics at Louisiana Tech University**. Previously, I worked as a **Data Analytics Intern at Avvale**, prototyping retrieval-augmented generation (RAG) workflows in Databricks. That experience is shared at a high level; employer-owned code and data remain private.
+## Background
 
-I also run **[Kransfeld Studios](https://kransfeldstudios.com)**, where I create custom websites and digital experiences.
+- **B.S. in Computer Science**, University of Georgia, 2026.
+- **MBA in Data Analytics**, Louisiana Tech University — in progress.
+- Previously a **Data Analytics Intern at Avvale**, working with Databricks and retrieval-augmented generation. Work from that internship isn't published here.
+- Currently an **Operations Manager at AMS Pools**, where I've worked across staffing, training, scheduling, and facility operations.
+- Co-developed a React/Spring Boot health dashboard selected as the **UGA CodeHub Spring 2026 Project Track winner**.
 
-## Selected work
+## Tools I use
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 [SpaceCourier](https://github.com/DarthPlagueis123/SpaceCourier)
-
-**Reinforcement learning meets arcade gameplay**
-
-A playable Python game with a PyTorch **Double DQN** agent, deterministic evaluation, training visualizations and automated tests.
-
-**8.37×** the random policy's mean score in the project's recorded 100-episode evaluation.
-
-[Explore the project →](https://github.com/DarthPlagueis123/SpaceCourier)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [Kransfeld Studios](https://kransfeldstudios.com)
-
-**Independent web design and development**
-
-Custom websites, responsive experiences and interactive design concepts built with attention to motion, usability and performance.
-
-The business's production source code is **private**.
-
-[View the portfolio →](https://kransfeldstudios.com)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Emberfall
-
-**Independent game development**
-
-A dark-fantasy pixel-art action platformer built with Godot, featuring character abilities, enemy AI, boss encounters and cross-platform input support.
-
-Commercial game code and assets remain **private**. A public showcase is planned.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Applied AI & Data Systems
-
-**Document intelligence and practical automation**
-
-Experience prototyping document retrieval and RAG-powered business workflows using Databricks and AI development tools during my Avvale internship.
-
-Employer source code, documents and internal details are **not published**.
-
-</td>
-</tr>
-</table>
-
-## Tech I work with
-
-| Area | Technologies |
-|:--|:--|
-| **Languages** | Java, Python, C/C++, JavaScript, SQL |
-| **Web & APIs** | React, Node.js, Express, Spring Boot, HTML, CSS, REST APIs |
-| **Data & storage** | PostgreSQL, MySQL, SQLite, Firebase, Supabase |
-| **AI & development** | PyTorch, Databricks, Git, GitHub, Docker, Maven, Gradle, Linux |
-
-## Experience & education
-
-- **Operations Manager — AMS Pools:** Led operations across multiple aquatic facilities, including staffing, training, and facility readiness. Previously managed 100+ lifeguards across 18 pools as an Area Manager.
-- **Data Analytics Intern — Avvale (Sep 2025 – May 2026):** Built and refined Databricks/RAG prototypes for document retrieval and invoice-related workflows.
-- **B.S. Computer Science — University of Georgia (May 2026):** GPA 3.79.
-- **MBA, Data Analytics — Louisiana Tech University:** In progress, online.
-- **UGA CodeHub Spring 2026 Project Track winner:** Co-developed a React/Spring Boot health dashboard.
-
-## What I'm focusing on
-
-- Improving reproducibility and evaluation for **SpaceCourier's reinforcement learning agents**.
-- Building reliable **AI-enabled business applications**.
-- Developing independent products and digital experiences through **Kransfeld Studios**.
+**Languages:** Java, Python, C/C++, JavaScript, SQL  
+**Web & backend:** React, Node.js, Express, Spring Boot, REST APIs  
+**Data & infrastructure:** PostgreSQL, MySQL, SQLite, Firebase, Supabase, Docker, Linux  
+**Other:** PyTorch, Databricks, Git, Maven, Gradle
 
 ---
 
-<div align="center">
-
-**Interested in working together?** Let's connect.
-
-[Website](https://kransfeldstudios.com) · [LinkedIn](https://www.linkedin.com/in/nathan-kransfeld-435843288/) · [Email](mailto:nate_kransfeld@outlook.com)
-
-<sub>Built with intention. Always improving.</sub>
-
-</div>
+I tend to have a few projects going at once. This GitHub is where I share the ones I can publish, along with the experiments and details behind them.
